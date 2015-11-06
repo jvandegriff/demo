@@ -1,0 +1,1 @@
+This project helps me figure out how to use GIT to incorporate changes using a 2-hop method.
